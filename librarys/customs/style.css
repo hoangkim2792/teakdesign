@@ -827,3 +827,12 @@ drawer-menu {
     color: #000;
 }
 
+/* sửa bổ sung */
+.lazy{
+    padding: 20px 0;
+    
+}
+
+.size{
+    max-height: 400px;
+}
