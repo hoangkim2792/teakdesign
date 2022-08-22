@@ -836,3 +836,7 @@ drawer-menu {
 .size{
     max-height: 400px;
 }
+
+.nnt-search{
+    padding-top: 6px;
+}
